@@ -132,7 +132,7 @@ for chunk in client.chat("讲个笑话", stream=True):
 如果这个项目对你有帮助，欢迎关注我的公众号，获取更多 AI 开发实战内容：
 
 <div align="center">
-  <img src="./images/qrcode.png" width="200" alt="公众号二维码">
+  <img src="https://cdn.jsdelivr.net/gh/fenglm2021/deepseek-python/images/qrcode.png" width="200" alt="公众号二维码">
   <br>
   <b>扫码关注公众号：小民AI实战笔记</b>
   <br>
