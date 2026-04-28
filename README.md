@@ -127,7 +127,17 @@ for chunk in client.chat("讲个笑话", stream=True):
 - DeepSeek — 提供强大的国产大模型 API
 - 所有为本项目点 ⭐ 的朋友
 
-## 📱 与我联系
+## 💬加交流群
+
+> ⚠️ 微信群二维码 7 天有效，如已过期请通过公众号菜单获取最新入口。
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fenglm2021/auto-refresh-extension/images/wechat.png" width="200" alt="微信群二维码">
+  <br>
+  <b>扫码入群｜交流答疑</b>
+</div>
+
+## 📢关注公众号
 
 如果这个项目对你有帮助，欢迎关注我的公众号，获取更多 AI 开发实战内容：
 
